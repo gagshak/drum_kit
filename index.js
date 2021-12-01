@@ -45,7 +45,7 @@ function makesound(key) {
             break;
 
         default:
-             alert("Wrong button !!!");
+//          alert("Wrong button !!!");
             break;
     }
 }
